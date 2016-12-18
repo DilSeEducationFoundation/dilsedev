@@ -19500,7 +19500,7 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     opacity: 1
 }
 .site-title-font {
-    font-family: "futura-pt";
+    
     font-size: 24px;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -19508,7 +19508,7 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     font-style: normal
 }
 .nav-font {
-    font-family: "futura-pt";
+    
     font-size: 13px;
     text-transform: uppercase;
     text-decoration: none;
@@ -19517,7 +19517,7 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     font-style: normal
 }
 .nav-button-font {
-    font-family: "futura-pt";
+    
     text-transform: uppercase;
     text-decoration: none;
     letter-spacing: 2px;
@@ -19525,7 +19525,7 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     font-style: normal
 }
 .banner-heading-font {
-    font-family: "futura-pt";
+    
     font-size: 69px;
     line-height: 1em;
     text-transform: none;
@@ -19534,7 +19534,7 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     font-style: normal
 }
 .banner-text-font {
-    font-family: "futura-pt";
+    
     font-size: 27px;
     line-height: 2.2em;
     text-transform: uppercase;
@@ -19543,7 +19543,7 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     font-style: normal
 }
 .banner-button-font {
-    font-family: "futura-pt";
+    
     font-size: 16px;
     text-transform: uppercase;
     text-decoration: none;
@@ -19560,7 +19560,7 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     font-style: normal
 }
 .heading1-font {
-    font-family: "futura-pt";
+    
     font-size: 42px;
     line-height: 1.2em;
     text-transform: none;
@@ -19569,7 +19569,7 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     font-style: normal
 }
 .heading2-font {
-    font-family: "futura-pt";
+    
     font-size: 32px;
     line-height: 1.2em;
     text-transform: none;
@@ -19578,7 +19578,7 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     font-style: normal
 }
 .heading3-font {
-    font-family: "futura-pt";
+    
     font-size: 18px;
     line-height: 1.3em;
     text-transform: uppercase;
@@ -19587,7 +19587,7 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     font-style: normal
 }
 .quote-font {
-    font-family: "futura-pt";
+    
     font-size: 28px;
     line-height: 1.4em;
     letter-spacing: 0px;
@@ -19595,14 +19595,14 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     font-style: normal
 }
 .summary-heading-font {
-    font-family: "futura-pt";
+    
     text-transform: uppercase;
     letter-spacing: 1px;
     font-weight: 400;
     font-style: normal
 }
 .subnav-title-font {
-    font-family: "futura-pt";
+    
     font-size: 32px;
     text-transform: none;
     text-decoration: none;
@@ -19620,7 +19620,7 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     font-style: normal
 }
 .footer-nav-font {
-    font-family: "futura-pt";
+    
     font-size: 14px;
     text-transform: uppercase;
     text-decoration: none;
@@ -19629,7 +19629,7 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     font-style: normal
 }
 .site-info-font {
-    font-family: "futura-pt";
+    
     font-size: 14px;
     text-transform: uppercase;
     text-decoration: none;
@@ -19638,7 +19638,7 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     font-style: normal
 }
 .small-button-block-font {
-    font-family: "futura-pt";
+    
     font-size: 12px;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -19646,7 +19646,7 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     font-style: normal
 }
 .medium-button-block-font {
-    font-family: "futura-pt";
+    
     font-size: 15px;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -19654,7 +19654,7 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     font-style: normal
 }
 .large-button-block-font {
-    font-family: "futura-pt";
+    
     font-size: 20px;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -19662,7 +19662,7 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     font-style: normal
 }
 .system-button-font {
-    font-family: "futura-pt";
+    
     text-transform: uppercase;
     letter-spacing: 3px;
     font-weight: 300;
