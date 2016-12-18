@@ -1034,8 +1034,8 @@ body>.login-wrapper.hidden {
 }
 @font-face {
     font-family: 'squarespace-ui-font';
-    src: url('http://static.squarespace.com/universal/fonts/squarespace-ui-font.eot');
-    src: url('http://static.squarespace.com/universal/fonts/squarespace-ui-font.eot?#iefix') format('embedded-opentype'), url('http://static.squarespace.com/universal/fonts/squarespace-ui-font.svg#squarespace-ui-font') format('svg'), url('http://static.squarespace.com/universal/fonts/squarespace-ui-font.woff') format('woff'), url('http://static.squarespace.com/universal/fonts/squarespace-ui-font.ttf') format('truetype');
+    src: url('https://static.squarespace.com/universal/fonts/squarespace-ui-font.eot');
+    src: url('https://static.squarespace.com/universal/fonts/squarespace-ui-font.eot?#iefix') format('embedded-opentype'), url('https://static.squarespace.com/universal/fonts/squarespace-ui-font.svg#squarespace-ui-font') format('svg'), url('https://static.squarespace.com/universal/fonts/squarespace-ui-font.woff') format('woff'), url('https://static.squarespace.com/universal/fonts/squarespace-ui-font.ttf') format('truetype');
     font-weight: normal;
     font-style: normal
 }
@@ -3627,8 +3627,8 @@ html.blogapp .state-message {
 }
 @font-face {
     font-family: 'squarespace-ui-font';
-    src: url('http://static.squarespace.com/universal/fonts/squarespace-ui-font.eot');
-    src: url('http://static.squarespace.com/universal/fonts/squarespace-ui-font.eot?#iefix') format('embedded-opentype'), url('http://static.squarespace.com/universal/fonts/squarespace-ui-font.svg#squarespace-ui-font') format('svg'), url('http://static.squarespace.com/universal/fonts/squarespace-ui-font.woff') format('woff'), url('http://static.squarespace.com/universal/fonts/squarespace-ui-font.ttf') format('truetype');
+    src: url('https://static.squarespace.com/universal/fonts/squarespace-ui-font.eot');
+    src: url('https://static.squarespace.com/universal/fonts/squarespace-ui-font.eot?#iefix') format('embedded-opentype'), url('https://static.squarespace.com/universal/fonts/squarespace-ui-font.svg#squarespace-ui-font') format('svg'), url('https://static.squarespace.com/universal/fonts/squarespace-ui-font.woff') format('woff'), url('https://static.squarespace.com/universal/fonts/squarespace-ui-font.ttf') format('truetype');
     font-weight: normal;
     font-style: normal
 }
@@ -12217,8 +12217,8 @@ html.sqs-modal-lightbox-open body {
 }
 @font-face {
     font-family: 'social-icon-font';
-    src: url('http://static.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot');
-    src: url('http://static.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot?#iefix') format('embedded-opentype'), url('http://static.squarespace.com/universal/fonts/social-20141119/social-icon-font.woff') format('woff'), url('http://static.squarespace.com/universal/fonts/social-20141119/social-icon-font.ttf') format('truetype'), url('http://static.squarespace.com/universal/fonts/social-20141119/social-icon-font.svg#social-icon-font') format('svg');
+    src: url('https://static.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot');
+    src: url('https://static.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot?#iefix') format('embedded-opentype'), url('https://static.squarespace.com/universal/fonts/social-20141119/social-icon-font.woff') format('woff'), url('https://static.squarespace.com/universal/fonts/social-20141119/social-icon-font.ttf') format('truetype'), url('https://static.squarespace.com/universal/fonts/social-20141119/social-icon-font.svg#social-icon-font') format('svg');
     font-weight: normal;
     font-style: normal
 }
@@ -14875,8 +14875,8 @@ body:not(.button-style-default).button-corner-style-pill .opentable-block .OT_Fi
 }
 @font-face {
     font-family: 'social-icon-font';
-    src: url('http://static.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot');
-    src: url('http://static.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot?#iefix') format('embedded-opentype'), url('http://static.squarespace.com/universal/fonts/social-20141119/social-icon-font.woff') format('woff'), url('http://static.squarespace.com/universal/fonts/social-20141119/social-icon-font.ttf') format('truetype'), url('http://static.squarespace.com/universal/fonts/social-20141119/social-icon-font.svg#social-icon-font') format('svg');
+    src: url('https://static.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot');
+    src: url('https://static.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot?#iefix') format('embedded-opentype'), url('https://static.squarespace.com/universal/fonts/social-20141119/social-icon-font.woff') format('woff'), url('https://static.squarespace.com/universal/fonts/social-20141119/social-icon-font.ttf') format('truetype'), url('https://static.squarespace.com/universal/fonts/social-20141119/social-icon-font.svg#social-icon-font') format('svg');
     font-weight: normal;
     font-style: normal
 }
