@@ -2281,7 +2281,7 @@ body.sqs-search-ui-fullscreen .sqs-search-ui-item .sqs-title .edit:hover {
     text-align: center;
     margin: 1em 0 3em 0;
     color: #aaa;
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Aref Ruqaa', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 16px;
     line-height: 1.65
 }
@@ -4882,7 +4882,7 @@ html.blogapp .state-message {
     color: #fff;
     background-color: #272727;
     border-width: 0;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Aref Ruqaa', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 12px;
     line-height: 1em;
     font-weight: normal;
@@ -5294,7 +5294,7 @@ body:not(.event-excerpts) .eventlist-excerpt {
     color: #fff;
     background-color: #272727;
     border-width: 0;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Aref Ruqaa', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 12px;
     line-height: 1em;
     font-weight: normal;
@@ -6371,7 +6371,7 @@ body:not(.event-like-and-share-buttons) .event-meta-socialicon-container {
     color: #fff;
     background-color: #272727;
     border-width: 0;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Aref Ruqaa', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 12px;
     line-height: 1em;
     font-weight: normal;
@@ -6394,7 +6394,7 @@ body:not(.event-like-and-share-buttons) .event-meta-socialicon-container {
     color: #fff;
     background-color: #272727;
     border-width: 0;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Aref Ruqaa', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 12px;
     line-height: 1em;
     font-weight: normal;
@@ -7273,7 +7273,7 @@ body:not(.event-like-and-share-buttons) .event-meta-socialicon-container {
     color: #fff;
     background-color: #272727;
     border-width: 0;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Aref Ruqaa', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 12px;
     line-height: 1em;
     font-weight: normal;
@@ -7842,7 +7842,7 @@ body:not(.event-like-and-share-buttons) .event-meta-socialicon-container {
     margin: 6px 0 4px;
     border: 1px solid #ccc;
     background: #fafafa;
-    font-family: sans-serif;
+    font-family: 'Aref Ruqaa', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 12px;
     line-height: normal;
     box-sizing: border-box;
@@ -7866,7 +7866,7 @@ body:not(.event-like-and-share-buttons) .event-meta-socialicon-container {
     bottom: 16px;
     left: 8px;
     color: #aaa;
-    font-family: sans-serif;
+    font-family: 'Aref Ruqaa', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 13px;
     line-height: 16px
 }
@@ -7995,7 +7995,7 @@ body:not(.event-like-and-share-buttons) .event-meta-socialicon-container {
     color: #fff;
     background-color: #272727;
     border-width: 0;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Aref Ruqaa', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 12px;
     line-height: 1em;
     font-weight: normal;
@@ -8052,7 +8052,7 @@ body:not(.event-like-and-share-buttons) .event-meta-socialicon-container {
     color: #fff;
     background-color: #272727;
     border-width: 0;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Aref Ruqaa', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 12px;
     line-height: 1em;
     font-weight: normal;
@@ -8267,7 +8267,7 @@ html.sqs-modal-lightbox-open body {
     color: #fff;
     background-color: #272727;
     border-width: 0;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Aref Ruqaa', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 12px;
     line-height: 1em;
     font-weight: normal;
@@ -8399,7 +8399,7 @@ html.sqs-modal-lightbox-open body {
 .sqs-block-opentable .OT_searchDateField,
 .sqs-block-opentable .OT_searchPartyField {
     font-family: inherit;
-    background: #fff url('http://static1.squarespace.com/universal/images-v6/icons/opentable-icons.svg') no-repeat;
+    background: #fff url('static1.squarespace.com/universal/images-v6/icons/opentable-icons.svg') no-repeat;
     color: #272727;
     font-weight: normal;
     margin: 0;
@@ -13588,7 +13588,7 @@ html.sqs-modal-lightbox-open body {
     margin-bottom: 0
 }
 .small-button-block-font {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Aref Ruqaa', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 12px;
     font-weight: 600;
     font-style: normal;
@@ -13596,7 +13596,7 @@ html.sqs-modal-lightbox-open body {
     letter-spacing: 1px
 }
 .medium-button-block-font {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Aref Ruqaa', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 15px;
     font-weight: 600;
     font-style: normal;
@@ -13604,7 +13604,7 @@ html.sqs-modal-lightbox-open body {
     letter-spacing: 1px
 }
 .large-button-block-font {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Aref Ruqaa', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 20px;
     font-weight: 600;
     font-style: normal;
@@ -13628,7 +13628,7 @@ html.sqs-modal-lightbox-open body {
     color: #fff;
     background-color: #272727;
     border-width: 0;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Aref Ruqaa', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 12px;
     line-height: 1em;
     font-weight: normal;
@@ -13649,10 +13649,10 @@ html.sqs-modal-lightbox-open body {
 }
 .sqs-block-button .sqs-block-button-element--small {
     padding: 13px 26px;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Aref Ruqaa', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 600;
     letter-spacing: 1px;
-    font-family: "futura-pt";
+    
     font-size: 12px;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -13669,10 +13669,10 @@ html.sqs-modal-lightbox-open body {
 }
 .sqs-block-button .sqs-block-button-element--medium {
     padding: 21px 34px;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Aref Ruqaa', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 600;
     letter-spacing: 1px;
-    font-family: "futura-pt";
+    
     font-size: 15px;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -13689,10 +13689,10 @@ html.sqs-modal-lightbox-open body {
 }
 .sqs-block-button .sqs-block-button-element--large {
     padding: 25px 46px;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Aref Ruqaa', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 600;
     letter-spacing: 1px;
-    font-family: "futura-pt";
+    
     font-size: 20px;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -14577,7 +14577,7 @@ html.sqs-modal-lightbox-open body {
     float: right
 }
 .system-button-font {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Aref Ruqaa', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 600;
     font-style: normal;
     text-transform: uppercase;
@@ -14615,10 +14615,10 @@ body:not(.button-style-default) .sqs-alternate-block-style-container .sqs-editab
 }
 body:not(.button-style-default) .sqs-editable-button,
 body:not(.button-style-default) .sqs-editable-button-font {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Aref Ruqaa', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 600;
     letter-spacing: 1px;
-    font-family: "futura-pt";
+    
     text-transform: uppercase;
     letter-spacing: 3px;
     font-weight: 300;
@@ -14772,10 +14772,10 @@ body:not(.button-style-default).button-style-raised .sqs-alternate-block-style-c
     box-shadow: 0 1px 0 0 #131313
 }
 body:not(.button-style-default) .opentable-block .OT_Find_a_Table {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Aref Ruqaa', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 600;
     letter-spacing: 1px;
-    font-family: "futura-pt";
+    
     text-transform: uppercase;
     letter-spacing: 3px;
     font-weight: 300;
@@ -14788,7 +14788,7 @@ body:not(.button-style-default).button-corner-style-pill .opentable-block .OT_Fi
     border-radius: 300px
 }
 .announcement-bar-font {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Aref Ruqaa', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 13px;
     font-weight: 300;
     font-style: normal;
@@ -14818,8 +14818,8 @@ body:not(.button-style-default).button-corner-style-pill .opentable-block .OT_Fi
 }
 .sqs-announcement-bar-text {
     padding: .8em 3em;
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    font-family: "europa";
+    font-family: 'Aref Ruqaa', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    
     font-size: 13px;
     text-transform: none;
     letter-spacing: 1px;
@@ -14830,8 +14830,8 @@ body:not(.button-style-default).button-corner-style-pill .opentable-block .OT_Fi
 .sqs-announcement-bar-text p {
     color: #fff;
     margin: 0;
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    font-family: "europa";
+    font-family: 'Aref Ruqaa', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    
     font-size: 13px;
     text-transform: none;
     letter-spacing: 1px;
@@ -14857,7 +14857,7 @@ body:not(.button-style-default).button-corner-style-pill .opentable-block .OT_Fi
 .sqs-announcement-bar-close:after {
     content: '×';
     display: block;
-    font-family: helvetica, arial, sans-serif;
+    font-family: 'Aref Ruqaa', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 1em;
     font-weight: 100;
     line-height: 2.7em;
@@ -15312,7 +15312,7 @@ body:not(.button-style-default).button-corner-style-pill .opentable-block .OT_Fi
     content: "\e665"
 }
 .tweak-product-quick-view-button-font {
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Aref Ruqaa', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: normal;
     font-style: normal;
     font-size: 12px;
@@ -15332,7 +15332,7 @@ body:not(.button-style-default).button-corner-style-pill .opentable-block .OT_Fi
     left: 0;
     width: 100%;
     height: 100%;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Aref Ruqaa', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 12px;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -16070,7 +16070,7 @@ body {
     font-family: "Aref Ruqaa", 'Segoe UI', "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 400;
     letter-spacing: 0px;
-    font-family: "europa";
+    
     font-size: 16px;
     line-height: 1.6em;
     letter-spacing: .5px;
@@ -16082,7 +16082,7 @@ body {
     font-family: "Aref Ruqaa", 'Segoe UI', "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 400;
     letter-spacing: 0px;
-    font-family: "europa";
+    
     font-size: 16px;
     line-height: 1.6em;
     letter-spacing: .5px;
@@ -16139,7 +16139,7 @@ h1,
     font-family: "Aref Ruqaa", 'Segoe UI', "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 400;
     font-size: 48px;
-    font-family: "futura-pt";
+    
     font-size: 42px;
     line-height: 1.2em;
     text-transform: none;
@@ -16154,7 +16154,7 @@ h1,
 h2 {
     font-family: "Aref Ruqaa", 'Segoe UI', "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 400;
-    font-family: "futura-pt";
+    
     font-size: 32px;
     line-height: 1.2em;
     text-transform: none;
@@ -16172,7 +16172,7 @@ h3 {
     letter-spacing: 0px;
     text-transform: none;
     line-height: 1.2em;
-    font-family: "futura-pt";
+    
     font-size: 18px;
     line-height: 1.3em;
     text-transform: uppercase;
@@ -16235,7 +16235,7 @@ blockquote {
     font-family: "Aref Ruqaa", 'Segoe UI', "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 400;
     letter-spacing: 0px;
-    font-family: "europa";
+    
     font-size: 16px;
     line-height: 1.6em;
     letter-spacing: .5px;
@@ -16249,7 +16249,7 @@ blockquote {
     font-style: italic;
     font-size: 27px;
     line-height: 1.65em;
-    font-family: "futura-pt";
+    
     font-size: 28px;
     line-height: 1.4em;
     letter-spacing: 0px;
@@ -16324,7 +16324,7 @@ blockquote {
     font-size: 14px;
     letter-spacing: 1px;
     text-transform: uppercase;
-    font-family: "futura-pt";
+    
     font-size: 32px;
     text-transform: none;
     text-decoration: none;
@@ -16344,7 +16344,7 @@ blockquote {
     font-size: 14px;
     letter-spacing: 1px;
     text-transform: uppercase;
-    font-family: "europa";
+    
     font-size: 16px;
     text-transform: none;
     text-decoration: none;
@@ -16506,7 +16506,7 @@ body:not(.has-banner-image).transparent-header #header,
 #footer nav:not(.social-account-list) {
     font-family: "Aref Ruqaa", 'Segoe UI', "Helvetica Neue", Helvetica, Arial, sans-serif;
     letter-spacing: 1px;
-    font-family: "futura-pt";
+    
     font-size: 14px;
     text-transform: uppercase;
     text-decoration: none;
@@ -16651,7 +16651,7 @@ li.filter {
     font-weight: 600;
     font-size: 20px;
     letter-spacing: 2px;
-    font-family: "futura-pt";
+    
     font-size: 24px;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -16873,7 +16873,7 @@ li.filter {
     letter-spacing: 0px;
     text-transform: none;
     line-height: 1.5em;
-    font-family: "futura-pt";
+    
     font-size: 27px;
     line-height: 2.2em;
     text-transform: uppercase;
@@ -16892,7 +16892,7 @@ li.filter {
     font-family: "Aref Ruqaa", 'Segoe UI', "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 400;
     font-size: 48px;
-    font-family: "futura-pt";
+    
     font-size: 69px;
     line-height: 1em;
     text-transform: none;
@@ -16913,7 +16913,7 @@ li.filter {
     font-family: "Aref Ruqaa", 'Segoe UI', "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 700;
     letter-spacing: 1px;
-    font-family: "futura-pt";
+    
     font-size: 16px;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -17036,7 +17036,7 @@ li.filter {
     letter-spacing: 0px;
     text-transform: none;
     line-height: 1.5em;
-    font-family: "futura-pt";
+    
     font-size: 27px;
     line-height: 2.2em;
     text-transform: uppercase;
@@ -17057,7 +17057,7 @@ li.filter {
     font-family: "Aref Ruqaa", 'Segoe UI', "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 400;
     font-size: 48px;
-    font-family: "futura-pt";
+    
     font-size: 69px;
     line-height: 1em;
     text-transform: none;
@@ -17076,7 +17076,7 @@ li.filter {
     font-family: "Aref Ruqaa", 'Segoe UI', "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 700;
     letter-spacing: 1px;
-    font-family: "futura-pt";
+    
     font-size: 16px;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -17156,7 +17156,7 @@ body:not(.collection-type-gallery).banner-button-corner-style-pill.has-promoted-
     font-weight: 600;
     font-size: 14px;
     letter-spacing: 1px;
-    font-family: "futura-pt";
+    
     font-size: 13px;
     text-transform: uppercase;
     text-decoration: none;
@@ -17716,7 +17716,7 @@ body:not(.collection-type-gallery).banner-button-corner-style-pill.has-promoted-
     font-family: "Aref Ruqaa", 'Segoe UI', "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 700;
     letter-spacing: 1px;
-    font-family: "futura-pt";
+    
     text-transform: uppercase;
     text-decoration: none;
     letter-spacing: 2px;
@@ -17790,7 +17790,7 @@ body:not(.collection-type-gallery).banner-button-corner-style-pill.has-promoted-
     font-family: "Aref Ruqaa", 'Segoe UI', "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 600;
     letter-spacing: 1px;
-    font-family: "futura-pt";
+    
     font-size: 14px;
     text-transform: uppercase;
     text-decoration: none;
@@ -17969,7 +17969,7 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
 .sqs-block-summary-v2 .summary-title,
 .sqs-block-summary-v2 .summary-heading {
     font-family: "Aref Ruqaa", 'Segoe UI', "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-family: "futura-pt";
+    
     text-transform: uppercase;
     letter-spacing: 1px;
     font-weight: 400;
@@ -18040,7 +18040,7 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     font-weight: 600;
     font-size: 14px;
     letter-spacing: 1px;
-    font-family: "futura-pt";
+    
     font-size: 13px;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -18349,7 +18349,7 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     font-family: "Aref Ruqaa", 'Segoe UI', "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 400;
     font-size: 48px;
-    font-family: "futura-pt";
+    
     font-size: 69px;
     line-height: 1em;
     text-transform: none;
@@ -18370,7 +18370,7 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     letter-spacing: 0px;
     text-transform: none;
     line-height: 1.5em;
-    font-family: "futura-pt";
+    
     font-size: 27px;
     line-height: 2.2em;
     text-transform: uppercase;
@@ -18528,7 +18528,7 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     font-family: "Aref Ruqaa", 'Segoe UI', "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 400;
     font-size: 48px;
-    font-family: "futura-pt";
+    
     font-size: 69px;
     line-height: 1em;
     text-transform: none;
@@ -18549,7 +18549,7 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     letter-spacing: 0px;
     text-transform: none;
     line-height: 1.5em;
-    font-family: "futura-pt";
+    
     font-size: 27px;
     line-height: 2.2em;
     text-transform: uppercase;
@@ -18573,7 +18573,7 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     letter-spacing: 0px;
     text-transform: none;
     line-height: 1.5em;
-    font-family: "futura-pt";
+    
     font-size: 27px;
     line-height: 2.2em;
     text-transform: uppercase;
@@ -18595,7 +18595,7 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     font-weight: 600;
     font-size: 14px;
     letter-spacing: 1px;
-    font-family: "futura-pt";
+    
     font-size: 13px;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -18616,7 +18616,7 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     letter-spacing: 0px;
     text-transform: none;
     line-height: 1.5em;
-    font-family: "futura-pt";
+    
     font-size: 27px;
     line-height: 2.2em;
     text-transform: uppercase;
